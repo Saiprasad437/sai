@@ -1,0 +1,12 @@
+body{
+    text-align:center;
+    background-image:url(num.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:rgb(98, 255, 0);
+    background-image: -webkit-gradient();
+}
+#guessinput{
+    height:20px;
+    width:100px;
+}
